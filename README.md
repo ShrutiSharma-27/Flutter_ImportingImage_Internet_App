@@ -9,5 +9,5 @@ Flutlab link : https://flutlab.io/editor/52445fe5-735b-4fa4-8a32-ffac05f35d87
 Bonus point task screenshot :
 ![WhatsApp Image 2022-09-07 at 03 33 31](https://user-images.githubusercontent.com/53565103/193074902-29073cd4-fa68-4c39-96c5-02cb5808cd54.jpeg)
 
-App screen screenshot : 
+App screen screenshot :
 ![WhatsApp Image 2022-09-07 at 01 42 13](https://user-images.githubusercontent.com/53565103/193075032-d5a82142-9967-447a-bcc6-cb801dc92b0b.jpeg)
